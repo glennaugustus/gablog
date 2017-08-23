@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>glennaugustus.com on Mr Augustus - A Purveyor of Fine Blogs</title>
-    <link>/</link>
+    <link>https://glennaugustus.github.io/gablog/</link>
     <description>Recent content in glennaugustus.com on Mr Augustus - A Purveyor of Fine Blogs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://glennaugustus.github.io/gablog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Contact</title>
-      <link>/contact/</link>
+      <link>https://glennaugustus.github.io/gablog/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/contact/</guid>
+      <guid>https://glennaugustus.github.io/gablog/contact/</guid>
       <description> Your Name Email Address An email address is required.  Message   </description>
     </item>
     
