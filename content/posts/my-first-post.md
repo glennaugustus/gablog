@@ -1,7 +1,7 @@
 ---
 title: "Moving Statically"
 date: 2017-08-22T16:41:18+01:00
-draft: true
+draft: false
 featured_image: '/images/mgorge-2017.jpg'
 ---
 
