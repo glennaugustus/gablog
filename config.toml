@@ -2,6 +2,7 @@ baseURL = "/"
 languageCode = "en-us"
 title = "Mr Augustus - A Purveyor of Fine Blogs"
 theme = "ananke"
+publishDir = "docs"
 
 [params]
   description = "20 Years+ in the Tech Business, old enough to speak for myself, young enough to hear high frequencies"
